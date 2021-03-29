@@ -59,7 +59,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pycld2==0.41
-Pygments==2.6.1
+Pygments==2.7.4
 PyICU==2.5
 pylint==2.4.4
 pyparsing==2.4.6
